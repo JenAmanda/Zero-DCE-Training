@@ -1,3 +1,12 @@
+Modified to add checkpoints for training/fine tuning
+Altered params to improve results on laptops
+used 3 main methods of assessments look in pdf
+
+
+
+
+README of the original Zero-DCE model that we trained:
+https://github.com/kmohanku/Low-Light-Image-Video-Enhancement
 # Image & Video Brightening with Zero-DCE
 
 This repository consists of 2 parts:
